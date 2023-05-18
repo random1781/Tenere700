@@ -25,3 +25,8 @@ This provides support for the Tenere's OEM display/meter. Three larger holes sup
 The intent is to accommodate aftermarket lights that mount on either side. There is 121.5mm of spacing to accommodate various-sized lights. This is currently being designed with the Baja Designs Squadron Pro lights in mind.
 ### Hardware
 This includes all necessary fasteners and other hardware required to mount all of the above. Hardware is sourced from McMaster-Carr in order to have an accessible baseline.
+
+## Discussion
+Join this discussion:
+- https://www.tenere700.net/topic/6574-rally-tower-concept/
+- https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
