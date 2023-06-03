@@ -16,5 +16,5 @@ Spacing between the outer faces of both brackets is 27mm. The inner spacing is 2
 |Component|Part Number|Quantity|
 |--|--|--|
 |bracket2|-|2|
-|M8 20mm Coupling nut|[90202A105](https://www.mcmaster.com/catalog/129/3609/90202A105)|1|
-|M8 20mm spacer|[92871A847]([https://www.mcmaster.com/catalog/129/3609/90202A105](https://www.mcmaster.com/catalog/129/3668/92871A847))|1|
+|M8 20mm coupling nut|[90202A105](https://www.mcmaster.com/catalog/129/3609/90202A105)|1|
+|M8 20mm spacer|[92871A847](https://www.mcmaster.com/catalog/129/3668/92871A847)|1|
