@@ -10,4 +10,8 @@ This bracket replaces Yamaha part BW3-F834L-00-00.
 - The ambient air temperature sensor is bolted onto the OEM mount. The cable for the sensor is wrapped along with the cable for the display itself. The sensor is shielded from direct sun and wind, so take care to tuck it out of the way to avoid erroneous inputs.
 
 ## Necessary hardware
-Some spacers/washers may be required to mount at the OEM location.
+|Component|Part Number|Quantity|
+|--|--|--|
+|bracket-meter|-|1|
+|M5 20mm Coupling nut|[90202A105](https://www.mcmaster.com/catalog/129/3609/90202A105)|4|
+|M5 locknut|[93625A112](https://www.mcmaster.com/93625A112/)|4|
