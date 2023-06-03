@@ -2,7 +2,8 @@
 
 This is a rally-style tower build for the Tenere 700.
 
-![Tower concept](images/concept/v03-rear.png)
+![Tower concept front](images/concept/v06/tower-front_angle.jpg)
+![Tower concept rear](images/concept/v06/tower-rear_angle.jpg)
 
 ## Overview
 
