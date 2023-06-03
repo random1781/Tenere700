@@ -1,4 +1,7 @@
 # bracket-meter
+
+![bracket2](images/bracket-meter.jpg)
+
 This bracket replaces Yamaha part BW3-F834L-00-00.
 
 ## Considerations
