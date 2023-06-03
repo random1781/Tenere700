@@ -2,29 +2,46 @@
 
 This is a rally-style tower build for the Tenere 700.
 
-![Tower concept](images/concept/v03-rear.png)
+![Tower concept front](images/concept/v06/tower-front_angle.jpg)
+![Tower concept rear](images/concept/v06/tower-rear_angle.jpg)
 
 ## Overview
 
-The tower is designed to provide a lightweight alternative to the Tenere's dash by replacing the following components:
-- Headlight
-- Headlight stay
-- Display meter mount
+The tower is designed to provide an alternative to the Tenere's entire dash. The functional goals are to:
+- Make space in the dash for additional components and aftermarket parts
+- Increase illumination with brigher lights
+- Reduce overall weight
 
-## Components
-The requirement components are largely broken down into three catagories
-### Brackets
-These are the custom-fabricated parts that are used to support the meter and navigation device. The design uses 3mm carbon fiber, but another material could be used instead. Currently there are three unique bracket designs:
-#### bracket2
-This is a small bracket that replaces the Yamaha OEM part BW3-2831V-10-00, which joins the bottom of the headlight to the steering head. The OEM version of this bracket can bend, causing the whole headlight assembly to be askew until replaced or straightened out.
-#### bracket3
-This is the main component of the tower. It bolts on to `bracket2` and extends upward to mate with the OEM GPS bar. Two of these sheets essentially sandwich one or two aftermarket headlights as well as `bracket-meter`.
-#### bracket-meter
-This provides support for the Tenere's OEM display/meter. Three larger holes support the grommets that the meter mates with, and then a few sets of holes allow it to bolt onto `bracket3` with a separate, 90 degree bracket. There are also holes in the AMPS pattern and M8 holes at 100mm x 40mm spacing to accommodate mounting onto the handlebar clamps. 
-### Lights
-The intent is to accommodate aftermarket lights that mount on either side. There is 121.5mm of spacing to accommodate various-sized lights and mounting options.
-### Hardware
-This includes all necessary fasteners and other hardware required to mount all of the above. Hardware is sourced from McMaster-Carr in order to have an accessible baseline.
+...by replacing the following OEM components:
+- Headlight (BW3-H4300-00-00)
+- Headlight stay (BW3-F8321-00-00)
+- Headlight support bracket (BW3-2831V-10-00)
+- Display meter mount (BW3-F834L-00-00)
+
+...with:
+- Brackets
+  - [bracket2](https://github.com/random1781/Tenere700/tree/main/tower/bracket2) - two of these form the support bracket
+  - [bracket3](https://github.com/random1781/Tenere700/tree/main/tower/bracket3) - two of these form the tower itself
+  - [bracket-meter](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) - this is the bracket that the OEM display/dash bolts to
+- Lights - choose your own! Mix and match! As long as the lights are >= 122mm and have side mounts, you can bolt them with spacers. For example...
+  - [Baja Designs](https://www.bajadesigns.com/)
+    - 2x Squadron Pro
+    - 1x XL80 and 1x Squadron Pro
+  - [Denali Electronics](https://denalielectronics.com/)
+    - 2x D4
+    - 1x D7 and 1x D4
+  - [Clearwater](https://clearwaterlights.com/)
+    - Anything up to the Sevina
+  - [Amazon Special](https://www.amazon.com/Auxbeam-Strobe-Driving-Polaris-Wrangler/dp/B0BKRTSP36)
+- Hardware - bolts, spacers, etc.
+
+## Reference design
+
+This design and bill of materials here is specifically for 1x Baja Designs XL80 on the top.
+
+Spacing underneath allows for another smaller-sized light (Squadron / D4 or smaller) and *might* allow for another XL80 below it with minimal clearance. While the hole exists in this design, mounting hardware (spacers, longet bolts) are not included.
+
+This reference design can be slightly modified by repositioning the holes to accommodate specific setups if necessary.
 
 ## Discussion
 Join this discussion:
