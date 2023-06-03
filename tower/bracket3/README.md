@@ -4,6 +4,6 @@
 ## Necessary hardware
 |Component|Part Number|Quantity|
 |--|--|--|
-|bracket3|-|2|
-|M8x60 Torx|[92832A602]([https://www.mcmaster.com/catalog/129/3609/90202A105](https://www.mcmaster.com/catalog/129/3388/92832A602))|4|
-|Spacer|[92510A591](https://www.mcmaster.com/catalog/129/3666/92510A591)|4|
+|bracket3|[bracket3-v06](bracket3-v06.svg)|2|
+|M8x60 button head|[92095A300](https://www.mcmaster.com/92095A300)|2|
+|1 7/8" L, 0.315" ID spacer|[90202A105](https://www.mcmaster.com/90202A105)|2|
