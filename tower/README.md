@@ -1,49 +1,101 @@
 # Tenere 700 Rally Tower
 
-This is a rally-style tower build for the Tenere 700.
+This is a free, easy-to-build (or source), modular, and customizable rally-style tower *design* that provides an adjustable platform for larger navigation devices and aftermarket lights by replacing or eliminating OEM components in the front end, including the headlight. 
 
-![Tower concept front](images/concept/v06/tower-front_angle.jpg)
-![Tower concept rear](images/concept/v06/tower-rear_angle.jpg)
+![Tower concept rear](images/renders/v07/tower-v07-angles.jpg)
 
-## Overview
+## Why?
 
-The tower is designed to provide an alternative to the Tenere's entire dash. The functional goals are to:
+The functional goals are to:
 - Make space in the dash for additional components and aftermarket parts
-- Increase illumination with brigher lights
+- Provide a stable platform for large/heavy devices (i.e. tablets)
+- Provide adjustability and customization
+- Increase illumination with brighter light(s)
 - Reduce overall weight
+- Easy to repair
 
-...by replacing the following OEM components:
-- Headlight (BW3-H4300-00-00)
-- Headlight stay (BW3-F8321-00-00)
-- Headlight support bracket (BW3-2831V-10-00)
-- Display meter mount (BW3-F834L-00-00)
+The unintentional benefits:
+- Increased airflow (if you don't cover the front)
+- Additional storage space - a spare tube fits perfectly in between the brackets
+- Additional lateral strength
+
+## How does it work?
+
+It replaces the following OEM components:
+- Headlight ([BW3-H4300-00-00](https://yamaha-motor.com/parts/diagram/10635215/242553596?partNumber=BW3H43000000))
+- Headlight Stay ([BW3-F8321-00-00](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3F83210000))
+- Headlight Support Bracket ([BW3-2831V-10-00](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW32831V1000))
+- Display Meter Mount ([BW3-F834L-00-00](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000))
 
 ...with:
-- Brackets
-  - [bracket2](https://github.com/random1781/Tenere700/tree/main/tower/bracket2) - two of these form the support bracket
-  - [bracket3](https://github.com/random1781/Tenere700/tree/main/tower/bracket3) - two of these form the tower itself
-  - [bracket-meter](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) - this is the bracket that the OEM display/dash bolts to
-- Lights - choose your own! Mix and match! As long as the lights are >= 122mm and have side mounts, you can bolt them with spacers. For example...
+
+###### Brackets
+
+  - [Support Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-support) - two of these form the support bracket, replacing the [Headlight Stay](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3F83210000)
+  - [Tower Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-tower) - two of these form the tower itself
+  - [Meter Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) - this is the bracket that the [OEM Display Meter](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3835002000) bolts to and replaces the [Display Meter Mount](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000)
+  - [Aux Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-aux) - two of these attach to the sides, each offering a mount for 1x cigarette lighter-sized attachment and 2x switches
+  
+###### Lights
+
+Choose your own! Mix and match! As long as the lights are >= 5" / 125mm and have side mounts, you can bolt them on with spacers. Not all *vertical spacing* has been accounted for, but these example combos should work...
   - [Baja Designs](https://www.bajadesigns.com/)
     - 2x Squadron Pro
     - 1x XL80 and 1x Squadron Pro
+	- 1x Squadron Pro and 2x S1
+	- 1x LP4
   - [Denali Electronics](https://denalielectronics.com/)
     - 2x D4
     - 1x D7 and 1x D4
   - [Clearwater](https://clearwaterlights.com/)
-    - Anything up to the Sevina
+    - Anything up to and including the Super Sevina
   - [Amazon Special](https://www.amazon.com/Auxbeam-Strobe-Driving-Polaris-Wrangler/dp/B0BKRTSP36)
-- Hardware - bolts, spacers, etc.
+
+###### Hardware
+
+The rest is just hardware, the majority of which can be found at a local hardware store - one with one of those aisles of meticulously organized drawers of fasteners (think Ace or True Value and not Home Depot or Lowe's). All hardware in the reference design is based off inventory and designs from [McMaster-Carr](https://www.mcmaster.com/).
+
+...and satisfying these manufacturing goals:
+- Affordable
+- Easy to manufacture without the need for complex tools
+- Easy to replicate and iterate on
+
+## *Does* it work?
+
+The original design had 18,001 miles before being revised. The only failure point was the threaded rods that bolt to the side panels: after ~5,000 miles they would fatigue and shear. This has been addressed in the latest version but has not been proven yet.
+
+## Is this for me?
+
+- Do you want any of the things listed above?
+- Did you crack your headlight to discover that it's an expensive part sold only as an assembly and are having a difficult time finding a replacement part in stock somewhere? Did you then look at other rally towers available and think they were a bit expensive?
+- Are you looking for a project or wanting to explore design and fabrication or manufacturing?
+
+If yes, then you might be interested in this.
+
+## How do I make the brackets?
+
+1. Make them yourself.
+2. If you can't, ask a friend for help.
+3. If you don't have any of those, find a local fabricator.
+4. If you can't find one or you don't want to leave your house, use a fabrication service. [SendCutSend](https://www.sendcutsend.com) (or other similar services) is an excellent, easy-to-use, and well-priced service that can create all these parts. This what I used to fabricate everything.
 
 ## Reference design
 
-This design and bill of materials here is specifically for 1x Baja Designs XL80 on the top.
+This design and bill of materials here is specifically for 1x Baja Designs XL80 on the top mounting point and is a *baseline*. Since everything except oversized rubber washers can be ordered from [McMaster-Carr](https://www.mcmaster.com/), this is the *baseline* for fasteners/hardware. There is a substantial amount of flexibility regarding materials and fasteners used, so while you could order virtually everything from McMaster, you might be able to source parts from a bucket of bolts.
 
-Spacing underneath allows for another smaller-sized light (Squadron / D4 or smaller) and *might* allow for another XL80 below it with minimal clearance. While the hole exists in this design, mounting hardware (spacers, longet bolts) are not included.
+## Version history
 
-This reference design can be slightly modified by repositioning the holes to accommodate specific setups if necessary.
+Version 2 changes:
+- Added an additional attachment point between the frame and the tower. This was done to minimize shaking and prevent rotation around the (previously) single-point of attachement. The inner bracket is much larger to facilitate this.
+- Adjusted the placement of the hole that provided the attachment point for the struts to which the side panels bolted onto. This was also made into a slot to facilitate variance and error tolerance since the inner bracket's increased size adds significant cost.
+- Increased the diameter of this hole to facilitate an M8 bolt (from M6).
+- Changed the hole for the bottom light to a slot for additional adjustment.
+- Brought the leading edge of the outer bracket inward. The side panels were slightly impacting this leading edge.
+- Extended the outer bracket downwards and added an additional hole to accommodate another strut to support the side panels at another attachment point. This position has not be verified.
+- Altered the auxiliary bracket to accommodate two switches in addition to a standard cigarette lighter.
 
 ## Discussion
+
 Join this discussion:
 - https://www.tenere700.net/topic/6574-rally-tower-concept/
 - https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
