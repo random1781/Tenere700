@@ -22,7 +22,7 @@ This bracket provides the mounting points for:
 
 These primarily provide attachment points for other components and clamp everything together. The spacers and light provide lateral strength and together with the OEM side panels create a very strong assembly. They could be made out of composites, but at a significant cost with a negligible strength/weight benefit.
 
-My first version was made from 7075. After 18,000 miles and time near the ocean, there was some slight discoloration/darkening of the material. I opted for 6061 for the second version of these to see if its higher corrosion-resistance would prevent this, however they haven't been on long enough to make an assessment.
+My first version was made from 7075. After 18,000 miles and time near the ocean, there was some [slight discoloration/darkening](images/production/misc/bracket-tower_comparison.jpg) of the material. I opted for 6061 for the second version of these to see if its higher corrosion-resistance would prevent this, however they haven't been on long enough to make an assessment.
 
 ## Installation Notes
 
@@ -40,17 +40,17 @@ The Support Brackets should first be loosely installed.
   - Tower Bracket
 1. Loosely thread the M8x65 socket cap bolts along with washers to the coupler.
 1. Loosely thread the M6/M8 adapters to the threaded rod.
-1. Place the M6x45 bolts through the side panels.
-1. From the inside of the panels, slide the neoprene washers onto the M6x45 bolts followed by the oversized M6 washers and M6 nut (but do not tighten).
-1. Loosely thread the M6x45 bolts to the M6/M8 adapters.
+1. Place the M6x40 bolts through the side panels.
+1. From the inside of the panels, slide the neoprene washers onto the M6x40 bolts followed by the oversized M6 washers and M6 nut (but do not tighten).
+1. Loosely thread the M6x40 bolts to the M6/M8 adapters.
   
 You are now in able to align the entire threaded rod to a natural position in the slot based off the position of the side panels. Once this is in place, snug the M6/M8 thread adapters so the threaded rod stays in place, but do not torque it down.
 
 Install the remaining brackets and headlight.
 
-Once all of this is complete, you will need to adjust the spacing of both side panels by tightening/loosening the M6x45 bolts. When viewed from the front, the gap between both side panels at the narrowest point should be 125mm, or about the width of the Tower Support brackets.
+Once all of this is complete, you will need to adjust the spacing of both side panels by tightening/loosening the M6x40 bolts. When viewed from the front, the gap between both side panels at the narrowest point should be 125mm, or about the width of the Tower Support brackets.
 
-Once this is complete, tighten the nuts on the M6x45 bolts. They should be just tight enough to secure the side panels and prevent the bolt and neoprene washer from rotating, but not torqued down.
+Once this is complete, tighten the nuts on the M6x40 bolts. They should be just tight enough to secure the side panels and prevent the bolt and neoprene washer from rotating, but not torqued down.
  
 ## Other Notes
 
@@ -72,6 +72,10 @@ Once this is complete, tighten the nuts on the M6x45 bolts. They should be just 
 
 The length of the spacers has some tolerance. +/- 1-3mm is acceptable without needing different hardware, and +/- 5-6mm is the maximum allowable. Any *more* than this and the Tower Brackets will reach the extent of the [OEM GPS bar](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3F831T0000) and will impact the side panels where it attaches to. Any *less* and the [Meter Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) won't fit.
 
+---
+
+The M6 neoprene washers should be as thick and compressible as possible. The angle of the OEM side panels where the M6 bolts clamps onto is not perfectly parallel to the Support Brackets, so the purpose of these washers is to provide damping for the tension needed to secure the panels.
+
 ## Necessary hardware
 |Component|Part Number|Quantity|
 |--|--|--|
@@ -83,4 +87,8 @@ The length of the spacers has some tolerance. +/- 1-3mm is acceptable without ne
 |M8 threaded rod, 150mm|[93805A641](https://www.mcmaster.com/93805A641)|1|
 |M8 washer|[93475A270](https://www.mcmaster.com/93475A270/)|4|
 |M8 oversized washer|[98363A113](https://www.mcmaster.com/98363A113/)|2|
+|M6x40 button head bolt|[94500A317](https://www.mcmaster.com/94500A317/)|2|
+|M6 oversized washer|[96505A114](https://www.mcmaster.com/96505A114)|2|
+|M6 oversized neoprene washer||2|
+|M6 nut|[93625A113](https://www.mcmaster.com/93625A113)|2|
 |Grommet, 12mm ID, 3mm ID width|[9600K318](https://www.mcmaster.com/9600K318)|2|
