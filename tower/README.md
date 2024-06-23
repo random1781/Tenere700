@@ -2,7 +2,8 @@
 
 This is a free, easy-to-build (or source), modular, and customizable rally-style tower *design* that provides an adjustable platform for larger navigation devices and aftermarket lights by replacing or eliminating OEM components in the front end, including the headlight. 
 
-![Tower concept rear](images/renders/v07/tower-v07-angles.jpg)
+![Tower V06 render](images/renders/v07/tower-v07-angles.jpg)
+![Tower V06 installed](images/production/v06/v06_installed-cropped.jpg)
 
 ## Why?
 
@@ -29,14 +30,14 @@ It replaces the following OEM components:
 
 ...with:
 
-###### Brackets
+##### Brackets
 
   - [Support Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-support) - two of these form the support bracket, replacing the [Headlight Stay](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3F83210000)
   - [Tower Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-tower) - two of these form the tower itself
   - [Meter Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) - this is the bracket that the [OEM Display Meter](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3835002000) bolts to and replaces the [Display Meter Mount](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000)
   - [Aux Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-aux) - two of these attach to the sides, each offering a mount for 1x cigarette lighter-sized attachment and 2x switches
   
-###### Lights
+##### Lights
 
 Choose your own! Mix and match! As long as the lights are >= 5" / 125mm and have side mounts, you can bolt them on with spacers. Not all *vertical spacing* has been accounted for, but these example combos should work...
   - [Baja Designs](https://www.bajadesigns.com/)
@@ -51,7 +52,7 @@ Choose your own! Mix and match! As long as the lights are >= 5" / 125mm and have
     - Anything up to and including the Super Sevina
   - [Amazon Special](https://www.amazon.com/Auxbeam-Strobe-Driving-Polaris-Wrangler/dp/B0BKRTSP36)
 
-###### Hardware
+##### Hardware
 
 The rest is just hardware, the majority of which can be found at a local hardware store - one with one of those aisles of meticulously organized drawers of fasteners (think Ace or True Value and not Home Depot or Lowe's). All hardware in the reference design is based off inventory and designs from [McMaster-Carr](https://www.mcmaster.com/).
 
@@ -63,6 +64,11 @@ The rest is just hardware, the majority of which can be found at a local hardwar
 ## *Does* it work?
 
 The original design had 18,001 miles before being revised. The only failure point was the threaded rods that bolt to the side panels: after ~5,000 miles they would fatigue and shear. This has been addressed in the latest version but has not been proven yet.
+
+This is the original design immediately prior to upgrading it:
+
+![v06 front](images/production/v06/v06_18k_front.jpg)
+![v06 dash](images/production/v06/v06_18k_dash.jpg)
 
 ## Is this for me?
 
@@ -100,6 +106,7 @@ Version 7 (produced) changes:
 - Brought the leading edge of the outer bracket inward. The side panels were slightly impacting this leading edge.
 - Extended the outer bracket downwards and added an additional hole to accommodate another strut to support the side panels at another attachment point. This position has not be verified.
 - Altered the auxiliary bracket to accommodate two switches in addition to a standard cigarette lighter.
+- Comparison of v06 and v07 [Tower Brackets](../images/production/misc/bracket-tower_comparison.jpg) and [Support Brackets]z(../images/production/misc/bracket-support_comparison.jpg).
 
 Version 6 (produced) changes:
 - Initial version
@@ -109,3 +116,5 @@ Version 6 (produced) changes:
 Join this discussion:
 - https://www.tenere700.net/topic/6574-rally-tower-concept/
 - https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
+
+![The Two Towers](images/production/v07/two_towers.jpg)
