@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 220.41 340.87">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+
+      .cls-2 {
+        stroke-dasharray: 0 0 3.6 1.8;
+      }
+    </style>
+  </defs>
+  <g id="LINE">
+    <line class="cls-2" x1="120.84" y1="220.04" x2="120.84" y2="120.82"/>
+  </g>
+  <g id="CIRCLE">
+    <circle class="cls-1" cx="85.41" cy="71.22" r="17.72"/>
+  </g>
+  <g id="CIRCLE-2" data-name="CIRCLE">
+    <circle class="cls-1" cx="85.41" cy="269.65" r="17.72"/>
+  </g>
+  <g id="CIRCLE-3" data-name="CIRCLE">
+    <circle class="cls-1" cx="49.98" cy="170.43" r="40.39"/>
+  </g>
+  <g id="CIRCLE-4" data-name="CIRCLE">
+    <circle class="cls-1" cx="191.71" cy="170.43" r="9.21"/>
+  </g>
+  <g id="LINE-2" data-name="LINE">
+    <line class="cls-1" x1="205.88" y1="113.74" x2="127.93" y2="113.74"/>
+  </g>
+  <g id="LINE-3" data-name="LINE">
+    <line class="cls-1" x1="220.05" y1="212.95" x2="220.05" y2="127.91"/>
+  </g>
+  <g id="LINE-4" data-name="LINE">
+    <line class="cls-1" x1="127.93" y1="227.13" x2="205.88" y2="227.13"/>
+  </g>
+  <g id="LINE-5" data-name="LINE">
+    <line class="cls-1" x1="113.76" y1="334.84" x2="113.76" y2="227.13"/>
+  </g>
+  <g id="LINE-6" data-name="LINE">
+    <line class="cls-1" x1="85.41" y1="340.51" x2="108.09" y2="340.51"/>
+  </g>
+  <g id="LINE-7" data-name="LINE">
+    <line class="cls-1" x1="57.06" y1="250.61" x2="57.06" y2="312.17"/>
+  </g>
+  <g id="LINE-8" data-name="LINE">
+    <line class="cls-1" x1="57.06" y1="28.7" x2="57.06" y2="90.26"/>
+  </g>
+  <g id="LINE-9" data-name="LINE">
+    <line class="cls-1" x1="108.09" y1=".35" x2="85.41" y2=".35"/>
+  </g>
+  <g id="LINE-10" data-name="LINE">
+    <line class="cls-1" x1="113.76" y1="113.74" x2="113.76" y2="6.02"/>
+  </g>
+  <g id="LINE-11" data-name="LINE">
+    <line class="cls-1" x1="113.76" y1="113.74" x2="113.76" y2="113.74"/>
+  </g>
+  <g id="ARC">
+    <path class="cls-1" d="M220.05,127.91c0-7.83-6.35-14.17-14.17-14.17"/>
+  </g>
+  <g id="ARC-2" data-name="ARC">
+    <path class="cls-1" d="M205.88,227.13c7.83,0,14.17-6.35,14.17-14.17"/>
+  </g>
+  <g id="ARC-3" data-name="ARC">
+    <path class="cls-1" d="M127.93,227.13c0-3.91-3.17-7.09-7.09-7.09s-7.09,3.17-7.09,7.09"/>
+  </g>
+  <g id="ARC-4" data-name="ARC">
+    <path class="cls-1" d="M57.06,250.61c0-12.01-7.57-22.72-18.9-26.73"/>
+  </g>
+  <g id="ARC-5" data-name="ARC">
+    <path class="cls-1" d="M38.17,116.98C8.65,127.42-6.82,159.81,3.61,189.33c5.71,16.14,18.41,28.84,34.55,34.55"/>
+  </g>
+  <g id="ARC-6" data-name="ARC">
+    <path class="cls-1" d="M38.17,116.98c11.33-4,18.9-14.71,18.9-26.73"/>
+  </g>
+  <g id="ARC-7" data-name="ARC">
+    <path class="cls-1" d="M85.41.35c-15.66,0-28.35,12.69-28.35,28.35"/>
+  </g>
+  <g id="ARC-8" data-name="ARC">
+    <path class="cls-1" d="M113.76,6.02c0-3.13-2.54-5.67-5.67-5.67"/>
+  </g>
+  <g id="ARC-9" data-name="ARC">
+    <path class="cls-1" d="M113.76,113.74c0,3.91,3.17,7.08,7.08,7.08s7.08-3.17,7.08-7.08"/>
+  </g>
+  <g id="ARC-10" data-name="ARC">
+    <path class="cls-1" d="M57.06,312.17c0,15.66,12.69,28.35,28.35,28.35"/>
+  </g>
+  <g id="ARC-11" data-name="ARC">
+    <path class="cls-1" d="M108.09,340.51c3.13,0,5.67-2.54,5.67-5.67"/>
+  </g>
+</svg>
