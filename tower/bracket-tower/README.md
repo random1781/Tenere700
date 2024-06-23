@@ -22,7 +22,7 @@ This bracket provides the mounting points for:
 
 These primarily provide attachment points for other components and clamp everything together. The spacers and light provide lateral strength and together with the OEM side panels create a very strong assembly. They could be made out of composites, but at a significant cost with a negligible strength/weight benefit.
 
-My first version was made from 7075. After 18,000 miles and time near the ocean, there was some [slight discoloration/darkening](images/production/misc/bracket-tower_comparison.jpg) of the material. I opted for 6061 for the second version of these to see if its higher corrosion-resistance would prevent this, however they haven't been on long enough to make an assessment.
+My first version was made from 7075. After 18,000 miles and time near the ocean, there was some [slight discoloration/darkening](../images/production/misc/bracket-tower_comparison.jpg) of the material. I opted for 6061 for the second version of these to see if its higher corrosion-resistance would prevent this, however they haven't been on long enough to make an assessment.
 
 ## Installation Notes
 
