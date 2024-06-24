@@ -64,7 +64,7 @@ These lights have been installed and fit:
 
 These are a few that have been digitally mocked-up based on schematics:
 
-<p style="text-align: center;">
+<p align="center">
 	Baja Designs Squadron Pro and (2) S1s<br>
 	<img src="./images/lights/squadron_s1.jpg"><br>
 
