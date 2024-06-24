@@ -56,3 +56,9 @@ The M5 neoprene washers should go in between the tabs and the [Support Brackets]
 |M5 oversized neoprene washer, 3-5mm thick|[93625A112](https://www.mcmaster.com/93625A112/)|4|
 |Damper|[5PS-83513-00-00](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=5PS835130000)|3|
 |Screw|[90164-05001-00](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=901640500100)|3|
+
+## Support
+
+If you find this useful, consider helping keeping the beer fridge stocked...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)

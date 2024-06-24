@@ -55,3 +55,9 @@ The top-most mounting point is slotted. This allows for adjustability to account
 
 \**if using a crash bar that mounts to the this bracket*
 \*\**if not reusing [OEM bolts](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3283360000)*
+
+## Support
+
+If you find this useful, consider helping keeping the beer fridge stocked...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)

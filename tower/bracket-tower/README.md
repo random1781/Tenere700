@@ -92,3 +92,9 @@ The M6 neoprene washers should be as thick and compressible as possible. The ang
 |M6 oversized neoprene washer||2|
 |M6 nut|[93625A113](https://www.mcmaster.com/93625A113)|2|
 |Grommet, 12mm ID, 3mm ID width|[9600K318](https://www.mcmaster.com/9600K318)|2|
+
+## Support
+
+If you find this useful, consider helping keeping the beer fridge stocked...
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
