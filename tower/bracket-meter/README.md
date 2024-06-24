@@ -61,4 +61,4 @@ The M5 neoprene washers should go in between the tabs and the [Support Brackets]
 
 If you find this useful, consider helping keeping the beer fridge stocked...
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
+<p align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)</p>

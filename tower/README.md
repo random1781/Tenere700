@@ -84,7 +84,7 @@ If yes, then you might be interested in this.
 1. Make them yourself.
 2. If you can't, ask a friend for help.
 3. If you don't have any of those, find a local fabricator.
-4. If you can't find one or you don't want to leave your house, use a fabrication service, which is what I did since the above was true for me as well. In the US, [SendCutSend](https://www.sendcutsend.com) is an excellent, easy-to-use, and well-priced service that can create all these parts. The designs posted here are the ones that I sent in, and all the parts I had made were fabricated by SendCutSend. They have additional options such as powder coating or anodization if you want to bling things up.
+4. If you can't find one or you don't want to leave your house, use a fabrication service, which is what I did since the above was true for me as well. In the US, [SendCutSend](https://www.sendcutsend.com) is an excellent, easy-to-use, and well-priced service that can create all these parts. The designs posted here are the ones that I sent in, and all the parts I had made were [fabricated by SendCutSend](images/production/v06/sendcutsend_package.jpg). They have additional options such as powder coating or anodization if you want to bling things up.
 
 ## Reference design
 
@@ -104,12 +104,16 @@ Join the discussions here:
 - https://www.tenere700.net/topic/6574-rally-tower-concept/
 - https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
 
-If you have any feedback, suggestions, or questions, feel free to contact me here, on social media, or at 
+If you have any feedback, suggestions, or questions, feel free to contact me here, on social media, or at scott@advgoats.com.
 
 ## Support
 
 If you find this useful, consider helping keeping the beer fridge stocked...
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
+<p align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)</p>
+
+See what living on a couple motorcycles with a dog is like:
+
+<p align="center">[![advgoats.com](images/assets/advgoats.png)](https://advgoats.com) [![Instagram](images/assets/Instagram_Glyph_Gradient.png)](https://www.instagram.com/surak_and_scott)</p>
 
 ![The Two Towers](images/production/v07/two_towers.jpg)
