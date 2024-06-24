@@ -94,6 +94,10 @@ The baseline for hardware and fasteners is [McMaster-Carr](https://www.mcmaster.
 
 There is a substantial amount of flexibility regarding materials and fasteners used - hex heads, allen heads, Torx heads, etc. - but as long as lengths are correct, you'll be fine.
 
+## Documents
+
+- [Version history](https://github.com/random1781/Tenere700/tree/main/tower/Documents/CHANGELOG.MD)
+
 ## To do
 
 I'll be adding much more in the near future, including more detailed installation instructions with pictures and a comprehensive list of hardware needed.
@@ -110,10 +114,10 @@ If you have any feedback, suggestions, or questions, feel free to contact me her
 
 If you find this useful, consider helping keeping the beer fridge stocked...
 
-<p align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
 
 See what living on a couple motorcycles with a dog is like:
 
-<p align="center">[![advgoats.com](images/assets/advgoats.png)](https://advgoats.com) [![Instagram](images/assets/Instagram_Glyph_Gradient.png)](https://www.instagram.com/surak_and_scott)</p>
+[![advgoats.com](images/assets/advgoats.png)](https://advgoats.com) [![Instagram](images/assets/Instagram_Glyph_Gradient.png)](https://www.instagram.com/surak_and_scott)
 
 ![The Two Towers](images/production/v07/two_towers.jpg)

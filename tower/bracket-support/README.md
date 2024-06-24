@@ -60,4 +60,4 @@ The top-most mounting point is slotted. This allows for adjustability to account
 
 If you find this useful, consider helping keeping the beer fridge stocked...
 
-<p align="center">[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)</p>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
