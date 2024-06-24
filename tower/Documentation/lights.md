@@ -66,11 +66,13 @@ These are a few that have been digitally mocked-up based on schematics:
 
 <p align="center">
 	Baja Designs Squadron Pro and (2) S1s<br>
-	<img src="./images/lights/squadron_s1.jpg"><br>
-
+	<img src="./images/lights/squadron_s1.jpg">
+</p>
+<p align="center">
 	Ruby R7<br>
-	<img src="./images/lights/r7.jpg"><br>
-
+	<img src="./images/lights/r7.jpg">
+</p>
+<p align="center">
 	Denali D7 Pro<br>
 	<img src="./images/lights/d7pro.jpg">
 </p>
