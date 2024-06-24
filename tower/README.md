@@ -39,7 +39,7 @@ It replaces the following OEM components:
   
 ##### Lights
 
-Choose your own! Mix and match! As long as the lights are >= 5" / 125mm and have side mounts, you can bolt them on with spacers. Not all *vertical spacing* has been accounted for, but these example combos should work...
+Choose your own! Mix and match! As long as the lights are <= 5" / 125mm and have side mounts, you can bolt them on with spacers. Not all *vertical spacing* has been accounted for, but these example combos should work...
   - [Baja Designs](https://www.bajadesigns.com/)
     - 2x Squadron Pro
     - 1x XL80 and 1x Squadron Pro
