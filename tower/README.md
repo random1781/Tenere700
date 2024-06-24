@@ -96,7 +96,7 @@ There is a substantial amount of flexibility regarding materials and fasteners u
 
 ## To do
 
-I'll be adding much more in the near future, including more detailed instructions with pictures and a comprehensive list of hardware needed.
+I'll be adding much more in the near future, including more detailed installation instructions with pictures and a comprehensive list of hardware needed.
 
 ## Discussion, feedback, and questions
 
