@@ -64,12 +64,13 @@ These lights have been installed and fit:
 
 These are a few that have been digitally mocked-up based on schematics:
 
+<p style="text-align: center;">
+	Baja Designs Squadron Pro and (2) S1s
+	![Squadron Pro and S1s](images/lights/squadron_s1.jpg)
 
-Baja Designs Squadron Pro and (2) S1s
-![Squadron Pro and S1s](images/lights/squadron_s1.jpg)
+	Ruby R7
+	![Ruby R7](images/lights/r7.jpg)
 
-Ruby R7
-![Ruby R7](images/lights/r7.jpg)
-
-Denali D7 Pro
-![Denali D7 Pro](images/lights/d7pro.jpg)
+	Denali D7 Pro
+	![Denali D7 Pro](images/lights/d7pro.jpg)
+</p>
