@@ -50,8 +50,8 @@ The top-most mounting point is slotted. This allows for adjustability to account
 |M8 20mm spacer|[92871A847](https://www.mcmaster.com/catalog/129/3668/92871A847)|3\* or 1|
 |M8 oversized washer|[98363A113](https://www.mcmaster.com/98363A113/)|10[^1] or 6|
 |M8x45 hex head bolt|[91287A307](https://www.mcmaster.com/91287A307/)|2[^2]|
-|M8 locknut|[93625A114](https://www.mcmaster.com/93625A114)|2\*\*|
-|M8 washer|[93475A270](https://www.mcmaster.com/93475A270/)|2\*\*|
+|M8 locknut|[93625A114](https://www.mcmaster.com/93625A114)|2[^2]|
+|M8 washer|[93475A270](https://www.mcmaster.com/93475A270/)|2[^2]|
 
 [^1]: if using a crash bar that mounts to the this bracket*
 [^2]: if not reusing [OEM bolts](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW3283360000)*
