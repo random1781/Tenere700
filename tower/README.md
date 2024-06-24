@@ -56,10 +56,7 @@ Choose your own! Mix and match! As long as the lights are <= 5" / 125mm and have
 
 The rest is just hardware, the majority of which can be found at a local hardware store - one with one of those aisles of meticulously organized drawers of fasteners (think Ace or True Value and not Home Depot or Lowe's). All hardware in the reference design is based off inventory and designs from [McMaster-Carr](https://www.mcmaster.com/).
 
-...and satisfying these manufacturing goals:
-- Affordable
-- Easy to manufacture without the need for complex tools
-- Easy to replicate and iterate on
+Whatever hardware you use, make sure it's stainless or some other corrosion-resistant material. We all know this, right?
 
 ## *Does* it work?
 
