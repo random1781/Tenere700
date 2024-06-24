@@ -13,8 +13,7 @@ The functional goals are to:
 - Provide adjustability and customization
 - Increase illumination with brighter light(s)
 - Reduce overall weight
-- Easy to repair
-- Customizable and adaptable 
+- Be easy to repair 
 
 The unintentional benefits:
 - Increased airflow (if you don't cover the front)
@@ -100,7 +99,11 @@ There is a substantial amount of flexibility regarding materials and fasteners u
 
 ## To do
 
-I'll be adding much more in the near future, including more detailed installation instructions with pictures and a comprehensive list of hardware needed.
+Add documentation:
+
+- Detailed installation instructions with diagrams
+- SendCutSend-specific instructions
+- Wiring an aftermarket light to the Tenere's high beam switch
 
 ## Discussion, feedback, and questions
 
@@ -109,6 +112,8 @@ Join the discussions here:
 - https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
 
 If you have any feedback, suggestions, or questions, feel free to contact me here, on social media, or at scott@advgoats.com.
+
+If you do wind up using this design, share some pictures!
 
 ## Support
 
