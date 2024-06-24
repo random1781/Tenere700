@@ -96,6 +96,7 @@ There is a substantial amount of flexibility regarding materials and fasteners u
 ## Documents
 
 - [Version history](https://github.com/random1781/Tenere700/tree/main/tower/Documents/CHANGELOG.MD)
+- [Electronics build](https://github.com/random1781/Tenere700/tree/main/tower/electronics)
 
 ## To do
 
@@ -104,6 +105,8 @@ Add documentation:
 - Detailed installation instructions with diagrams
 - SendCutSend-specific instructions
 - Wiring an aftermarket light to the Tenere's high beam switch
+- Add additional light mockups
+- Detail electronics build
 
 ## Discussion, feedback, and questions
 
