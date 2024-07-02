@@ -117,7 +117,7 @@ If you do wind up using this design, share some pictures!
 
 ## Support
 
-If you find this useful, consider helping keeping the beer fridge stocked...
+If you find this useful, consider helping keeping the ~~beer fridge~~ [Nalgene flasks](https://nalgene.com/product/10oz-flask/) stocked...
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N86PBC2)
 

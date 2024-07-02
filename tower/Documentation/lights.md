@@ -22,7 +22,10 @@ You can also mix and match to essentially build your own beam pattern. For examp
 
 The majority of aftermarket lights simply turn on to 100% brightness and assume you have a mechanism to dim them. Baja Design's XL80 Pro is a notable exception to this: it has a third wire that, when grounded will dim the light to 80% and is a good, easy-to-use solution that doesn't require a (generally expensive) aftermarket product to dim.
 
-Otherwise you will need to develop a system to dim the lights or use an aftermarket product. The [Skene IQ-275X](https://skenelights.com/skene-iq-275x.html) is a good way to control the lights without being [excessively complicated, expensive, or unnecessarily connecting to the CAN bus](https://www.hexezcan.com/select-your-bike-yamaha/).
+If you wish to dim an aftermarket light, generally any PWM dimmer will work, such as...
+
+- [Skene IQ-275X](https://skenelights.com/skene-iq-275x.html) is a good way to control the lights without being [excessively complicated, expensive, or unnecessarily connecting to the CAN bus](https://www.hexezcan.com/select-your-bike-yamaha/).
+- [Eastern Beaver EB-DimR 1/2](https://www.easternbeaver.com/Main/Products/Light_Accessories/Led_Light_Accessories.html)
 
 The Tenere's high beam is a bit different than most. If you want to use a light with built-in dimming or if you have a non-X version of the Skene controller, you'll need to use a relay. Read about that [here](https://github.com/random1781/Tenere700/tree/main/tower/Documents/tenere_high_beam.md).
 

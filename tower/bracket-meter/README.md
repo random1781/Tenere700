@@ -27,7 +27,7 @@ The holes for the AMPS pattern are not necessary and can be omitted along with t
 
 ## Installation Notes
 
-Remove the three [OEM Dampers](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=5PS835130000) that are attached to the [OEM bracket](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) and retain the [OEM Screws](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=901640500100). Install the OEM Dampers on the aluminum bracket and use the OEM Screws to mount the Display Meter to the bracket. 
+Remove the (3) [OEM Dampers](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=5PS835130000) that are attached to the [OEM bracket](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) and retain the [OEM Screws](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=901640500100). Install the OEM Dampers on the aluminum bracket and use the OEM Screws to mount the Display Meter to the bracket.
 
 ---
 
