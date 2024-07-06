@@ -25,6 +25,8 @@ The tabs should be bent to 90 degrees. Take care to ensure the bend direction is
 
 The holes for the AMPS pattern are not necessary and can be omitted along with the hole in the center of the AMPS pattern.
 
+Bend lines are indicated by dashed lines and are dimensioned in accordiance with SendCutSend's [guidelines](https://sendcutsend.com/materials/5052-aluminum/) for 0.125" 5025 aluminum.
+
 ## Installation Notes
 
 Remove the (3) [OEM Dampers](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=5PS835130000) that are attached to the [OEM bracket](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) and retain the [OEM Screws](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=901640500100). Install the OEM Dampers on the aluminum bracket and use the OEM Screws to mount the Display Meter to the bracket.
