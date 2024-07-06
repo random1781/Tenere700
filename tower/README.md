@@ -3,6 +3,7 @@
 This is a free, easy-to-build (or source), modular, and customizable rally-style tower *design* that provides an adjustable platform for larger navigation devices and aftermarket lights by replacing or eliminating OEM components in the front end, including the headlight. 
 
 ![Tower V06 render](images/renders/v07/tower-v07-angles.jpg)
+![Tower V06 with adjuster](images/renders/v07/tower-v07_with_adjuster.png)
 ![Tower V06 installed](images/production/v06/v06_installed-cropped.jpg)
 
 ## Why?
@@ -36,6 +37,7 @@ It replaces the following OEM components:
   - [Tower Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-tower) - two of these form the tower itself
   - [Meter Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-meter) - this is the bracket that the [OEM Display Meter](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3835002000) bolts to and replaces the [Display Meter Mount](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000)
   - [Aux Bracket](https://github.com/random1781/Tenere700/tree/main/tower/bracket-aux) - two of these attach to the sides, each offering a mount for 1x cigarette lighter-sized attachment and 2x switches
+  - [Nav Adjuster Bracket](bracket-nav_adjuster) - an *optional* bracket to attach larger navigation devices and provide adjustability
   
 ##### Lights
 
