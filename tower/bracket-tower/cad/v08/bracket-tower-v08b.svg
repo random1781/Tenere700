@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_0" data-name="0" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 277.61 1121.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: .71px;
+      }
+    </style>
+  </defs>
+  <g id="CIRCLE">
+    <circle class="cls-1" cx="221.63" cy="735.9" r="9.92"/>
+  </g>
+  <g id="LINE">
+    <line class="cls-1" x1="71.22" y1="195.96" x2="71.22" y2="224.31"/>
+  </g>
+  <g id="ARC">
+    <path class="cls-1" d="M88.23,195.96c0-4.7-3.81-8.5-8.5-8.5s-8.5,3.81-8.5,8.5"/>
+  </g>
+  <g id="LINE-2" data-name="LINE">
+    <line class="cls-1" x1="88.23" y1="224.31" x2="88.23" y2="195.96"/>
+  </g>
+  <g id="ARC-2" data-name="ARC">
+    <path class="cls-1" d="M71.22,224.31c0,4.7,3.81,8.5,8.5,8.5s8.5-3.81,8.5-8.5"/>
+  </g>
+  <g id="CIRCLE-2" data-name="CIRCLE">
+    <circle class="cls-1" cx="109.15" cy="1055.88" r="11.34"/>
+  </g>
+  <g id="ARC-3" data-name="ARC">
+    <path class="cls-1" d="M146.21,53.96C138.23,17.25,102.01-6.05,65.29,1.92,34.42,8.62,12.22,35.69,11.7,67.27"/>
+  </g>
+  <g id="LINE-3" data-name="LINE">
+    <line class="cls-1" x1="11.7" y1="67.27" x2=".36" y2="752.81"/>
+  </g>
+  <g id="ARC-4" data-name="ARC">
+    <path class="cls-1" d="M.36,752.81c-.04,2.65.12,5.31.5,7.93"/>
+  </g>
+  <g id="LINE-4" data-name="LINE">
+    <line class="cls-1" x1=".86" y1="760.74" x2="44.25" y2="1065.14"/>
+  </g>
+  <g id="ARC-5" data-name="ARC">
+    <path class="cls-1" d="M44.25,1065.14c4.61,32.31,32.27,56.31,64.9,56.31"/>
+  </g>
+  <g id="LINE-5" data-name="LINE">
+    <line class="cls-1" x1="109.15" y1="1121.44" x2="220.57" y2="1121.44"/>
+  </g>
+  <g id="ARC-6" data-name="ARC">
+    <path class="cls-1" d="M220.57,1121.44c31.31,0,56.69-25.38,56.69-56.69"/>
+  </g>
+  <g id="LINE-6" data-name="LINE">
+    <line class="cls-1" x1="277.26" y1="1064.75" x2="277.26" y2="666.66"/>
+  </g>
+  <g id="ARC-7" data-name="ARC">
+    <path class="cls-1" d="M277.26,666.66c0-6.07-.65-12.12-1.94-18.04"/>
+  </g>
+  <g id="LINE-7" data-name="LINE">
+    <line class="cls-1" x1="275.32" y1="648.62" x2="146.21" y2="53.96"/>
+  </g>
+  <g id="ARC-8" data-name="ARC">
+    <path class="cls-1" d="M200.47,626.88c-16.56,3.21-32.17,10.16-45.65,20.31"/>
+  </g>
+  <g id="ARC-9" data-name="ARC">
+    <path class="cls-1" d="M142.89,631.33c-4.38,3.3-5.25,9.52-1.96,13.89s9.52,5.25,13.89,1.96"/>
+  </g>
+  <g id="ARC-10" data-name="ARC">
+    <path class="cls-1" d="M196.69,607.4c-19.52,3.79-37.92,11.97-53.81,23.93"/>
+  </g>
+  <g id="ARC-11" data-name="ARC">
+    <path class="cls-1" d="M200.47,626.88c5.38-1.04,8.89-6.25,7.85-11.63-1.04-5.38-6.25-8.89-11.63-7.85"/>
+  </g>
+  <g id="LINE-8" data-name="LINE">
+    <line class="cls-1" x1="123.56" y1="551.13" x2="123.56" y2="593.65"/>
+  </g>
+  <g id="ARC-12" data-name="ARC">
+    <path class="cls-1" d="M137.74,551.13c0-3.91-3.17-7.09-7.09-7.09s-7.09,3.17-7.09,7.09"/>
+  </g>
+  <g id="LINE-9" data-name="LINE">
+    <line class="cls-1" x1="137.74" y1="593.65" x2="137.74" y2="551.13"/>
+  </g>
+  <g id="ARC-13" data-name="ARC">
+    <path class="cls-1" d="M123.56,593.65c0,3.91,3.17,7.09,7.09,7.09s7.09-3.17,7.09-7.09"/>
+  </g>
+  <g id="LINE-10" data-name="LINE">
+    <line class="cls-1" x1="123.56" y1="324.36" x2="123.56" y2="366.88"/>
+  </g>
+  <g id="ARC-14" data-name="ARC">
+    <path class="cls-1" d="M137.74,324.36c0-3.91-3.17-7.09-7.09-7.09s-7.09,3.17-7.09,7.09"/>
+  </g>
+  <g id="LINE-11" data-name="LINE">
+    <line class="cls-1" x1="137.74" y1="366.88" x2="137.74" y2="324.36"/>
+  </g>
+  <g id="ARC-15" data-name="ARC">
+    <path class="cls-1" d="M123.56,366.88c0,3.91,3.17,7.09,7.09,7.09s7.09-3.17,7.09-7.09"/>
+  </g>
+  <g id="CIRCLE-3" data-name="CIRCLE">
+    <circle class="cls-1" cx="163.01" cy="1105.49" r="8.5"/>
+  </g>
+  <g id="LINE-12" data-name="LINE">
+    <line class="cls-1" x1="245.72" y1="1061.89" x2="245.72" y2="976.85"/>
+  </g>
+  <g id="ARC-16" data-name="ARC">
+    <path class="cls-1" d="M225.88,1061.89c0,5.48,4.44,9.92,9.92,9.92s9.92-4.44,9.92-9.92"/>
+  </g>
+  <g id="LINE-13" data-name="LINE">
+    <line class="cls-1" x1="225.88" y1="976.85" x2="225.88" y2="1061.89"/>
+  </g>
+  <g id="ARC-17" data-name="ARC">
+    <path class="cls-1" d="M245.72,976.85c0-5.48-4.44-9.92-9.92-9.92s-9.92,4.44-9.92,9.92"/>
+  </g>
+  <g id="LINE-14" data-name="LINE">
+    <line class="cls-1" x1="24.65" y1="745.65" x2="41.66" y2="762.66"/>
+  </g>
+  <g id="ARC-18" data-name="ARC">
+    <path class="cls-1" d="M42.69,727.61c-4.98-4.98-13.06-4.98-18.04,0s-4.98,13.06,0,18.04"/>
+  </g>
+  <g id="LINE-15" data-name="LINE">
+    <line class="cls-1" x1="59.7" y1="744.62" x2="42.69" y2="727.61"/>
+  </g>
+  <g id="ARC-19" data-name="ARC">
+    <path class="cls-1" d="M41.66,762.66c4.98,4.98,13.06,4.98,18.04,0s4.98-13.06,0-18.04"/>
+  </g>
+  <g id="CIRCLE-4" data-name="CIRCLE">
+    <circle class="cls-1" cx="79.72" cy="68.4" r="27"/>
+  </g>
+  <g id="ARC-20" data-name="ARC">
+    <path class="cls-1" d="M168.6,726.55c-1.09,6.19-1.09,12.51,0,18.7"/>
+  </g>
+  <g id="ARC-21" data-name="ARC">
+    <path class="cls-1" d="M188.14,730c.95-5.4-2.65-10.54-8.05-11.49s-10.54,2.65-11.49,8.05"/>
+  </g>
+  <g id="ARC-22" data-name="ARC">
+    <path class="cls-1" d="M188.14,730c-.69,3.91-.69,7.9,0,11.81"/>
+  </g>
+  <g id="ARC-23" data-name="ARC">
+    <path class="cls-1" d="M168.6,745.25c.95,5.4,6.1,9,11.49,8.05s9-6.1,8.05-11.49"/>
+  </g>
+</svg>
