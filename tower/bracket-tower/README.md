@@ -93,6 +93,10 @@ The M6 neoprene washers should be as thick and compressible as possible. The ang
 |M6 nut|[93625A113](https://www.mcmaster.com/93625A113)|2|
 |Grommet, 12mm ID, 3mm ID width|[9600K318](https://www.mcmaster.com/9600K318)|2|
 
+## Version History
+
+- 8b - reduced the radius of the top arc that goes around the GPS bar. In one instance this was impact the windscreen.
+
 ## Support
 
 If you find this useful, consider helping keeping the beer fridge stocked...
