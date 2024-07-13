@@ -32,4 +32,4 @@ If you find this useful, consider helping keeping the ~~beer fridge~~ treat bags
 
 See what living on a couple motorcycles with a dog is like:
 
-[![advgoats.com](../tower/images/assets/advgoats.png)](https://advgoats.com) [![Instagram](tower/images/assets/Instagram_Glyph_Gradient.png)](https://www.instagram.com/surak_and_scott)
+[![advgoats.com](../tower/images/assets/advgoats.png)](https://advgoats.com) [![Instagram](../tower/images/assets/Instagram_Glyph_Gradient.png)](https://www.instagram.com/surak_and_scott)
