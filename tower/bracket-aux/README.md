@@ -10,7 +10,7 @@ Both versions of this bracket support one cigarette lighter-style adapter while 
 
 ## Fabrication Notes
 
-**Recommended material:** Aluminum (any alloy)
+**Recommended material:** Aluminum (any alloy)
 
 **Recommended gauge:** 3mm
 
