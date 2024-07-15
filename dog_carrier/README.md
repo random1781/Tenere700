@@ -12,6 +12,14 @@ Together these form a lightweight and extremely strong carrier.
 
 This is a design for a *carrier only*. Since every motorcycle is different, a mount will have to be created for your application. This design offers a great deal of flexibility regarding mounts: there is plenty of real estate to drill holes and bolt stuff onto, and the design is strong enough to support mounts in pretty much any reasonable place.
 
+## Organization
+
+Currently in the [CAD/STEP]( directory you will find:
+	`dog_carrier-v01.STEP`: The basic configuration of the panels, joints, and braces without any holes for fastening.
+	`dog_carrier-bolt_holes-v01.STEP`: This is the same as above but has 4mm holes to bolt everything together.
+	
+Each directory ([panels](panels), [joints](joints), and [braces](braces)) currently has flat vector files for each part. You can submit these to [SendCutSend](https://sendcutsend.com/) for fabrication. Specifications can be found in the respective directories.
+
 ## How do I build it?
 
 This version is an initial model that provides general sizes and angles. A future version will include more detailed plans and diagrams, including optional bolt holes, side patterns for mounting things, and files that you can submit to [SendCutSend](https://sendcutsend.com/) to have the parts produced there.

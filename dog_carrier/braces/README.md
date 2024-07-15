@@ -6,6 +6,13 @@ The braces provide rigidity and are essentially a frame from the entire assembly
 
 **Recommended material:** Angle aluminum
 **Recommended gauge:** 1/8" thick, 3/4" legs
+**Bend angles:** 90 degrees
+**Bend direction:** ALL down or ALL up
+
+If bent via SendCutSend, there will be significant deformation of the holes closest to the bend. Some deformation is acceptable, but I can't confirm how much there will be and whether this will have a negative effect on the produced part. Your options are to:
+ - Proceed with the deformation
+ - Remove the holes nearest to the bend and drill them yourself when you receive the part
+ - Use 90 degree angle from the hardware store and cut/drill it yourself
 
 ## Discussion, feedback, and questions
 
