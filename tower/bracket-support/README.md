@@ -14,8 +14,10 @@ The OEM bolts that attach the bracket to the steering head are reused.
 
 ## Fabrication Notes
 
-**Recommended material:** Carbon fiber or G10 fiberglass; 7075 T6 aluminum 
+**Recommended material:** Carbon fiber or G10 fiberglass; 7075 T6 aluminum
+
 **Recommended gauge:** 3mm
+
 **Reference dimensions:** 64mm between center of frame bolts
 
 A composite is highly recommended primarily because this assembly occasionally sees lateral impacts from hard crashes where the side panels are impacted. With the bike at stock this is rare, but using crash bars that bolt onto this assembly greatly increases the likelihood of lateral stress. A metal will bend, such as with the OEM bracket, but a composite may flex and then return to its original position.

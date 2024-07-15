@@ -11,7 +11,9 @@ This bracket bolts on to a standard [GPS bar clamp](https://adv-tim.com/products
 ## Fabrication Notes
 
 **Recommended material:** 5052 aluminum
+
 **Recommended gauge:** 3mm / 0.125"
+
 **Reference dimensions:** 86mm from top edge to bottom edge; AMPS pattern is 38mm width and 30mm height
 
 Depending on the application, the holes for the top AMPS pattern might need to be countersunk. For example, if utilizing the bottom AMPS pattern and the navigation device/mount extends upwards, a standard bolt might block it.

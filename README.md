@@ -8,6 +8,7 @@ A collection of modifications for the Yamaha Tenere 700 including designs and ne
 ## Discussion, feedback, and questions
 
 Join the discussions here:
+
 - https://www.tenere700.net/topic/6574-rally-tower-concept/
 - https://www.advrider.com/f/threads/tenere-700-rally-style-tower.1645135/
 

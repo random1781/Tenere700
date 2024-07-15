@@ -17,7 +17,9 @@ This bracket provides the mounting points for:
 ## Fabrication Notes
 
 **Recommended material:** 6061 or 7075 T6 aluminum 
+
 **Recommended gauge:** 3mm
+
 **Reference dimensions:** 400mm height from flat base to upper-most point of the top curve
 
 These primarily provide attachment points for other components and clamp everything together. The spacers and light provide lateral strength and together with the OEM side panels create a very strong assembly. They could be made out of composites, but at a significant cost with a negligible strength/weight benefit.

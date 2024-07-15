@@ -5,6 +5,7 @@ The panels are made from a composite material to allow for flexibility while sti
 ## Fabrication Notes
 
 **Recommended material:** G10
+
 **Recommended gauge:** 1.6mm
 
 ## Discussion, feedback, and questions

@@ -14,7 +14,9 @@ The four small holes are arranged in an [AMPS pattern](https://support.garmin.co
 ## Fabrication Notes
 
 **Recommended material:** 5052 aluminum
+
 **Recommended gauge:** 3mm
+
 **Reference dimensions:** front face width: 112mm / front face height: 150mm
 
 This part does not experience much stress and can be made with most aluminum alloy that allow for bending.

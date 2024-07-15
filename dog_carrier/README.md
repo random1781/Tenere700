@@ -15,8 +15,8 @@ This is a design for a *carrier only*. Since every motorcycle is different, a mo
 ## Organization
 
 Currently in the [CAD/STEP]( directory you will find:
-	`dog_carrier-v01.STEP`: The basic configuration of the panels, joints, and braces without any holes for fastening.
-	`dog_carrier-bolt_holes-v01.STEP`: This is the same as above but has 4mm holes to bolt everything together.
+- `dog_carrier-v01.STEP`: The basic configuration of the panels, joints, and braces without any holes for fastening.
+- `dog_carrier-bolt_holes-v01.STEP`: This is the same as above but has 4mm holes to bolt everything together.
 	
 Each directory ([panels](panels), [joints](joints), and [braces](braces)) currently has flat vector files for each part. You can submit these to [SendCutSend](https://sendcutsend.com/) for fabrication. Specifications can be found in the respective directories.
 
