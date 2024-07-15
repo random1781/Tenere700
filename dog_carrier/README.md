@@ -28,6 +28,10 @@ This version is an initial model that provides general sizes and angles. A futur
 - [Joints](joints) - These are all 22 gauge stainless steel sheet metal cut to size, bent, and drilled. Cutting and drilling are simple, but bending uniformly and to the appropriate angles might be difficult without the appropriate tools.
 - [Braces](braces) - These are by far the easiest to make yourself. While the plans here call for sheet metal to be bent to 90 degrees, you can simply use angle aluminum which is both cheaper and stronger. With this method, all you have to do is cut these pieces to length, file off some edges, and drill holes. You can save a significant amount of money doing this.
 
+## Other notes
+
+This is a work in progress. I'm doing it from the road and in my free time, so I can't guarantee everything about it, but please reach out to me if you have any questions or concerns. I'm making every effort to improve the design and make it easy to use/build.
+
 ## Discussion, feedback, and questions
 
 If you have any feedback, suggestions, or questions, feel free to contact me here, on social media, or at scott@advgoats.com.
