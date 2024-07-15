@@ -32,6 +32,8 @@ This version is an initial model that provides general sizes and angles. A futur
 
 This is a work in progress. I'm doing it from the road and in my free time, so I can't guarantee everything about it, but please reach out to me if you have any questions or concerns. I'm making every effort to improve the design and make it easy to use/build.
 
+The tabs up top still need to be finalized - bolt holes will have to be drilled manually. They are just larger-gauge stainless steel bent to bolt onto the side and rear braces to provide structure.
+
 ## Discussion, feedback, and questions
 
 If you have any feedback, suggestions, or questions, feel free to contact me here, on social media, or at scott@advgoats.com.

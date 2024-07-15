@@ -10,19 +10,13 @@ The joints connect the panels with each other along their edges.
 
 **Bend angles:**
 
-`joint-base-side-left-v01`: 65 degrees
-
-`joint-base-side-right-v01`: 65 degrees
-
-`joint-front-left-v01.ai`: 96 degrees
-
-`joint-front-right-v01.ai`: 96 degrees
-
-`joint-rear-side-left-v01.ai`: 78 degrees
-
-`joint-rear-side-right-v01.ai`: 78 degrees
-
-`joint-rear-bottom-v01.ai`: 60 degrees
+- `joint-base-side-left-v01`: 65 degrees
+- `joint-base-side-right-v01`: 65 degrees
+- `joint-front-left-v01.ai`: 96 degrees
+- `joint-front-right-v01.ai`: 96 degrees
+- `joint-rear-side-left-v01.ai`: 78 degrees
+- `joint-rear-side-right-v01.ai`: 78 degrees
+- `joint-rear-bottom-v01.ai`: 60 degrees
 
 **Bend direction:** ALL down or ALL up
 

@@ -12,6 +12,8 @@ The braces provide rigidity and are essentially a frame from the entire assembly
 
 **Bend direction:** ALL down or ALL up
 
+**tab-v01**: This part has two bends: 150 and 155 degrees. Since this part is mirrored, add this part twice, but swap **either** the bend angles or the bend direction.
+
 If bent via SendCutSend, there will be significant deformation of the holes closest to the bend. Some deformation is acceptable, but I can't confirm how much there will be and whether this will have a negative effect on the produced part. Your options are to:
  - Proceed with the deformation
  - Remove the holes nearest to the bend and drill them yourself when you receive the part
