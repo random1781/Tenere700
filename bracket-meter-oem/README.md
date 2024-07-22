@@ -1,6 +1,6 @@
 # Meter Bracket - OEM
 
-![Meter Bracket - OEM](images/v01/bracket-meter-oem-v01.jpg)
+![Meter Bracket - OEM](images/v01/bracket-meter-oem-v01.png)
 
 This bracket can replace Yamaha part [BW3-F834L-00-00](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) or can be used to help relocate the [Display Meter](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) elsewhere, such as the handlebars.
 
