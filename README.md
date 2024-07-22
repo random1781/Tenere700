@@ -4,6 +4,7 @@ A collection of modifications for the Yamaha Tenere 700 including designs and ne
 - [Tower](tower) - a rally-style tower that replaces the OEM headlight assembly
 - [Display Meter Bracket](bracket-meter) - a bracket that can replace [BW3-F834L-00-00](https://yamaha-motor.com/parts/diagram/10635215/242368756?partNumber=BW3F834L0000) to push the Display Meter forward (and out of the way of some handguards) or that can be used to help mount the Display Meter to the handlebars.
 - [Headlight Support Bracket](bracket-support-oem) - a stronger bracket that replaces [BW3-2831V-10-00](https://yamaha-motor.com/parts/diagram/10635215/242410301?partNumber=BW32831V1000), which is the what bolts the headlight to the frame along with some crash bars and can be bent.
+- [Tablet mount](tablet_mount) - A simple tablet mount meant for a Tripltek tablet.
 
 ## Discussion, feedback, and questions
 
