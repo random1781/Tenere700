@@ -17,6 +17,12 @@ If you have any feedback, suggestions, or questions, feel free to contact me her
 
 If you do wind up using this design, share some pictures!
 
+## Other cool projects / resources
+
+- [MotoButtons2](https://github.com/joncox123/MotoButtons2/tree/main) - DIY USB buttons
+- [BarButtons](https://jaxeadv.com/barbuttons/) - More buttons
+- [DMD2](https://github.com/johnkeel-thork/DMD2) - Best moto/mapping app for Android
+
 ## Support
 
 If you find this useful, consider helping keeping the ~~beer fridge~~ [Nalgene flasks](https://nalgene.com/product/10oz-flask/) stocked...
