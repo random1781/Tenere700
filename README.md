@@ -19,6 +19,7 @@ If you do wind up using this design, share some pictures!
 
 ## Other cool projects / resources
 
+- [T7 ABS Dongle](https://github.com/DKey96/T7-ABS-Dongle) - Arduino code to quickly turn off/on ABS and retain settings
 - [MotoButtons2](https://github.com/joncox123/MotoButtons2/tree/main) - DIY USB buttons
 - [BarButtons](https://jaxeadv.com/barbuttons/) - More buttons
 - [DMD2](https://github.com/johnkeel-thork/DMD2) - Best moto/mapping app for Android
