@@ -4,4 +4,4 @@
 
 ## Material
 
-Print with ABS and 100% infill.
+Print with TPU 80 or less and 100% infill.

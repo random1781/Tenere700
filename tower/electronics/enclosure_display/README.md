@@ -1,11 +1,11 @@
 # Display Enclosure
 
-![Display Enclosure](../images/enclosure_display_exploded.png)
+![Display Enclosure](images/enclosure_display_exploded.png)
 
 ## Components
 
 Enclosure for display components:
-- [Enclosure base](enclosure_display_base)
+- [Enclosure base](enclosure_display_base) - Includes mounting posts for: 
   - [Seven segment backpack and displays](https://www.adafruit.com/product/878)
   - [NeoPixel Stick 8](https://www.adafruit.com/product/1426)
 - [Enclosure lid](enclosure_display_lid)

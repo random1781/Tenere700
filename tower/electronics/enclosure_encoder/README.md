@@ -4,15 +4,11 @@
 
 ## Components
 
-- [Enclosure base](enclosure_encoder_base)
+- [Enclosure base](enclosure_encoder_base) - Includes mounting posts for: 
   - [I2C Active Terminator](https://www.adafruit.com/product/4756)
-- [Enclosure lid](enclosure_encoder_lid)
+- [Enclosure lid](enclosure_encoder_lid) - Includes cutouts to mount:
   - [NeoRotary 4](https://www.adafruit.com/product/5752)
 - [Enclosure gasket](enclosure_encoder_gasket)
-
-Mounting brackets:
-- [Bracket Display](bracket_display)
-- [Bracket Antenna](bracket_antenna)
 
 ## Mounting
 

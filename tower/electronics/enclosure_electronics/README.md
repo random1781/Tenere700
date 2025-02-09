@@ -5,13 +5,11 @@
 
 ## Components
 
-- [Enclosure base](enclosure_electronics_base)
-  Includes mounting posts for: 
+- [Enclosure base](enclosure_electronics_base) - Includes mounting posts for: 
   - [RP2040 CAN Feather](https://www.adafruit.com/product/5724)
   - [CoolGear CG-3590X4AX1C-PD-PCBA USB hub](https://www.coolgear.com/product/4-port-usb-3-2-gen-1-micro-powered-hub-pcba-w-gl3590-chipset-esd-surge-protection)
   - [IMU](https://www.adafruit.com/product/4502)
-- [Enclosure lid](enclosure_electronics_lid)
-  Includes mounting posts for:
+- [Enclosure lid](enclosure_electronics_lid) - Includes mounting posts for:
   - [NEO-M9N GPS](https://www.sparkfun.com/products/17285)
 - [Enclosure gasket](enclosure_electronics_gasket)
 

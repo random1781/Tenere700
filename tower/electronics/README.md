@@ -32,35 +32,35 @@ These are essentially off-the-shelf components consisting mostly of [Adafruit](h
 This is the box on the side of the tower that houses the majority of the electronics.
 
 - [Electronics Enclosure Assembly](enclosure_electronics)
-  - [Enclosure base](enclosure_electronics/enclosure_display_base)
-  - [Enclosure lid](enclosure_electronics/enclosure_display_lid)
-  - [Enclosure gasket](enclosure_electronics/enclosure_display_gasket)
-- [RP2040 CAN Feather](https://www.adafruit.com/product/5724)
-- [NEO-M9N GPS](https://www.sparkfun.com/products/17285)
-- [IMU](https://www.adafruit.com/product/4502)
-- [CoolGear CG-3590X4AX1C-PD-PCBA USB hub](https://www.coolgear.com/product/4-port-usb-3-2-gen-1-micro-powered-hub-pcba-w-gl3590-chipset-esd-surge-protection)
+  - [Enclosure base](enclosure_electronics/enclosure_electronics_base) - Includes mounting posts for: 
+    - [RP2040 CAN Feather](https://www.adafruit.com/product/5724)
+    - [CoolGear CG-3590X4AX1C-PD-PCBA USB hub](https://www.coolgear.com/product/4-port-usb-3-2-gen-1-micro-powered-hub-pcba-w-gl3590-chipset-esd-surge-protection)
+    - [IMU](https://www.adafruit.com/product/4502)
+  - [Enclosure lid](enclosure_electronics/enclosure_electronics_lid) - Includes mounting posts for: 
+    - [NEO-M9N GPS](https://www.sparkfun.com/products/17285)
+  - [Enclosure gasket](enclosure_electronics/enclosure_electronics_gasket)
 
 ### Display / Antenna
 
 The displays are mounted to the GPS bar clamp along with the GPS antenna.
 
 - [Display Enclosure Assembly](enclosure_display)
-  - [Enclosure base](enclosure_display/enclosure_display_base)
+  - [Enclosure base](enclosure_display/enclosure_display_base) - Includes mounting posts for: 
     - [Seven segment backpack and displays](https://www.adafruit.com/product/878)
     - [NeoPixel Stick 8](https://www.adafruit.com/product/1426)
   - [Enclosure lid](enclosure_display/enclosure_display_lid)
   - [Enclosure gasket](enclosure_display/enclosure_display_gasket)
   - [Enclosure lens](enclosure_display/enclosure_display_lens)
-  - [Enclosure mounting bracket](enclosure_display/bracket_display)
-  - [Antenna mounting bracket](enclosure_display/backet_antenna)
-    - [ANN-MB-00 GPS Antenna](https://www.mouser.com/ProductDetail/u-blox/ANN-MB-00?qs=CiayqK2gdcLD35zjsrMkTw%3D%3D&srsltid=AfmBOopE4NwvK-NwnYeN03ZKSZuy5o31hP3ZSBpxcxob4BpL1pjlFRlus)
+- [Enclosure mounting bracket](enclosure_display/bracket_display)
+- [Antenna mounting bracket](enclosure_display/bracket_antenna)
+  - [ANN-MB-00 GPS Antenna](https://www.mouser.com/ProductDetail/u-blox/ANN-MB-00?qs=CiayqK2gdcLD35zjsrMkTw%3D%3D&srsltid=AfmBOopE4NwvK-NwnYeN03ZKSZuy5o31hP3ZSBpxcxob4BpL1pjlFRlus)
 
-### Center Controls
+### Rotary Encoders
 
 - [Encoder Enclosure Assembly](enclosure_encoder)
-  - [Enclosure base](enclosure_encoder/enclosure_encoder_base)
+  - [Enclosure base](enclosure_encoder/enclosure_encoder_base) - Includes mounting posts for: 
     - [I2C Active Terminator](https://www.adafruit.com/product/4756)
-  - [Enclosure lid](enclosure_encoder/enclosure_encoder_lid)
+  - [Enclosure lid](enclosure_encoder/enclosure_encoder_lid) - Includes cutouts to mount:
     - [NeoRotary 4](https://www.adafruit.com/product/5752)
   - [Enclosure gasket](enclosure_encoder/enclosure_encoder_gasket)
 
@@ -68,7 +68,7 @@ The displays are mounted to the GPS bar clamp along with the GPS antenna.
 
 - [Bar Controller Assembly](bar_controller)
   - [Bar controller base](bar_controller/bar_controller_base)
-  - [Bar controller lid](bar_controller/bar_controller_lid)
+  - [Bar controller lid](bar_controller/bar_controller_lid) - Includes space to mount:
     - [KB2040](https://www.adafruit.com/product/5302)
   - [Bar controller gasket](bar_controller/bar_controller_gasket)
 
