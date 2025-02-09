@@ -1,29 +1,78 @@
 # Electronics build
 
-This will detail the electronics package I'm building out to accompany the tower.
+This is the first version of the dash electronics.
 
-## Overview
+## Background
 
 The Tenere's OEM dash is meant to mimic a rally-style setup, but the UI is lacking, both in terms of display and operation with the single select button. Important (to me) information is buried, hard to access or reset, or simply not available at all.
 
 The overall intent of this is to gather relevant information, display it in a more readable fashion, and interact with it.
 
-## Design
+## Overview
 
-The components consist of:
+There are three primary components to this:
+ - Controllers and sensors to collect and process data
+ - Display to actually show the data
+ - Rotary encoders to control the whole system
+ 
+Separately, there is a bar controller with a few switches that functions as a keyboard. This interfaces with the tablet, not the discrete electronics.
+ 
+In its current state, the only sensor being used is the GPS in order to provide heading and trip meters. The USB hub allows the tablet to use the external GPS in lieu of its own, internal GPS. The NEO-M9N GPS is more accurate and has a higher refresh rate than the tablet's GPS. The bar controller also goes through the hub to the tablet.
 
-- Arduino with CAN interface
-- GPS with a high refresh rate
-- IMU
-- Seven segment displays
-- LCD for development
-- USB hub
+Future plans include:
+ - CAN integration to display bike data
+ - Data logging
 
-Everything is connected via an I2C bus to the Arduino. The GPS is also connected to the USB hub both to power everything and to pass data to the tablet more accurate location data to the tablet.
+## Components
 
-Work on this is rather slow, but the initial configuration is looking like this:
+These are essentially off-the-shelf components consisting mostly of [Adafruit](https://www.adafruit.com/) and [SparkFun](https://www.sparkfun.com/) products and are interconnected via I2C with the STEMMA/Qwiic interface. This is a breakdown of all the individual components grouped by their actual physical location:
 
-![Electronics package](images/electronics_overview.jpg)
+### Microcontrollers / Sensors
+
+This is the box on the side of the tower that houses the majority of the electronics.
+
+- [Electronics Enclosure Assembly](enclosure_electronics)
+  - [Enclosure base](enclosure_electronics/enclosure_display_base)
+  - [Enclosure lid](enclosure_electronics/enclosure_display_lid)
+  - [Enclosure gasket](enclosure_electronics/enclosure_display_gasket)
+- [RP2040 CAN Feather](https://www.adafruit.com/product/5724)
+- [NEO-M9N GPS](https://www.sparkfun.com/products/17285)
+- [IMU](https://www.adafruit.com/product/4502)
+- [CoolGear CG-3590X4AX1C-PD-PCBA USB hub](https://www.coolgear.com/product/4-port-usb-3-2-gen-1-micro-powered-hub-pcba-w-gl3590-chipset-esd-surge-protection)
+
+### Display / Antenna
+
+The displays are mounted to the GPS bar clamp along with the GPS antenna.
+
+- [Display Enclosure Assembly](enclosure_display)
+  - [Enclosure base](enclosure_display/enclosure_display_base)
+    - [Seven segment backpack and displays](https://www.adafruit.com/product/878)
+    - [NeoPixel Stick 8](https://www.adafruit.com/product/1426)
+  - [Enclosure lid](enclosure_display/enclosure_display_lid)
+  - [Enclosure gasket](enclosure_display/enclosure_display_gasket)
+  - [Enclosure lens](enclosure_display/enclosure_display_lens)
+  - [Enclosure mounting bracket](enclosure_display/bracket_display)
+  - [Antenna mounting bracket](enclosure_display/backet_antenna)
+    - [ANN-MB-00 GPS Antenna](https://www.mouser.com/ProductDetail/u-blox/ANN-MB-00?qs=CiayqK2gdcLD35zjsrMkTw%3D%3D&srsltid=AfmBOopE4NwvK-NwnYeN03ZKSZuy5o31hP3ZSBpxcxob4BpL1pjlFRlus)
+
+### Center Controls
+
+- [Encoder Enclosure Assembly](enclosure_encoder)
+  - [Enclosure base](enclosure_encoder/enclosure_encoder_base)
+    - [I2C Active Terminator](https://www.adafruit.com/product/4756)
+  - [Enclosure lid](enclosure_encoder/enclosure_encoder_lid)
+    - [NeoRotary 4](https://www.adafruit.com/product/5752)
+  - [Enclosure gasket](enclosure_encoder/enclosure_encoder_gasket)
+
+### Bar Controller
+
+- [Bar Controller Assembly](bar_controller)
+  - [Bar controller base](bar_controller/bar_controller_base)
+  - [Bar controller lid](bar_controller/bar_controller_lid)
+    - [KB2040](https://www.adafruit.com/product/5302)
+  - [Bar controller gasket](bar_controller/bar_controller_gasket)
+
+The boards are connected via an I2C bus to the Arduino. The GPS is also connected to the USB hub both to power everything and to pass data to the tablet more accurate location data to the tablet.
 
 ## Is this necessary?
 
