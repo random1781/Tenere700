@@ -1,5 +1,7 @@
 # Electronics build
 
+![Electronics overview](images/towerelec_overview.png)
+
 This is the first version of the dash electronics.
 
 ## Background

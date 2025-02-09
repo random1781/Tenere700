@@ -1,6 +1,7 @@
 # Encoder Enclosure
 
-![Encoder Enclosure](../images/enclosure_encoder_exploded.png)
+![Encoder Enclosure](images/enclosure_encoder.png)
+![Encoder Enclosure](images/enclosure_encoder_exploded.png)
 
 ## Components
 
