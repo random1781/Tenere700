@@ -1,7 +1,8 @@
 # Electronics Enclosure
 
-![Electronics Enclosure Front](images/enclosure_electronics_exploded_front.png)
-![Electronics Enclosure Back](images/enclosure_electronics_exploded_back.png)
+![Electronics Enclosure Front](images/enclosure_electronics.png)
+![Electronics Enclosure Exploded Front](images/enclosure_electronics_exploded_front.png)
+![Electronics Enclosure Exploded Back](images/enclosure_electronics_exploded_back.png)
 
 ## Components
 

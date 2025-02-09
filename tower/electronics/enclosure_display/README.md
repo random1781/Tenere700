@@ -1,6 +1,7 @@
 # Display Enclosure
 
-![Display Enclosure](images/enclosure_display_exploded.png)
+![Display Enclosure](images/enclosure_display.png)
+![Display Enclosure Exploded](images/enclosure_display_exploded.png)
 
 ## Components
 
