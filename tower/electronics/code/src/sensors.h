@@ -21,6 +21,7 @@ void resetDistanceCountdown();
 void modifyDistanceFromSoftReset(int amount);
 void modifyTargetDistanceCoutdown(int amount);
 int getCurrentOdometer();        // Return odometer reading
+int getCurrentSpeedometer();        // Return speedometer reading
 int getCurrentGPSOdometer();        // Return odometer reading
 int getCurrentDistanceCountdown(); // Return remaining distance
 int getCurrentCompassHeading();  // Return compass heading

@@ -8,6 +8,7 @@
 
 int distance = 0; // Total distance traveled (meters)
 int heading = 0;
+int speed = 0;
 
 int distanceFromSoftReset = 0;
 int distanceFromCountdown = 0;
@@ -25,10 +26,11 @@ void callbackODO(UBX_NAV_ODO_data_t *ubxODO) {
 void callbackPVT(UBX_NAV_PVT_data_t *ubxPVT) {
   //pvtData = ubxDataStruct;
   heading = ubxPVT->headMot;
+  speed = ubxPVT->gSpeed;
 }
 
 void setBoardOdometer() {
-  distanceFromSoftReset = getCurrentOdometer();
+  distanceFromSoftReset = getCurrentGPSOdometer();
   Serial.print("distancefromsoftreset after press: "); Serial.println(distanceFromSoftReset);
 }
 
@@ -67,6 +69,12 @@ void modifyTargetDistanceCoutdown(int amount) {
 // odometer and a point where the user marked.
 int getCurrentOdometer() {
   return distance - distanceFromSoftReset;
+}
+
+// This simply fetches the GPS's odometer.
+int getCurrentSpeedometer() {
+  int speedKph = round(speed * 3.6 / 1000.0);
+  return speedKph;
 }
 
 // This simply fetches the GPS's odometer.

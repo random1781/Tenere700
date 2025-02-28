@@ -20,6 +20,7 @@ ScreenType mainScreensLeft[] = {
 
 ScreenType mainScreensRight[] = {
     ScreenType::COMPASS_HEADING,
+    ScreenType::SPEEDOMETER,
     ScreenType::GPSODOMETER
 //    ScreenType::CURRENT_TIME,
 //    ScreenType::COUNTDOWN_TIMER,
@@ -38,21 +39,25 @@ static int lastDisplayedValueRight = -1;
 DisplayType getDisplayTypeForScreen(ScreenType screen) {
     switch (screen) {
         case ScreenType::ODOMETER:
+          return DisplayType::DISTANCE_KM;
         case ScreenType::GPSODOMETER:
+          return DisplayType::DISTANCE_KM;
+        case ScreenType::SPEEDOMETER:
+          return DisplayType::SPEED_KPH;
         case ScreenType::DISTANCE_COUNTDOWN:
+          return DisplayType::DISTANCE_KM;
         case ScreenType::SET_COUNTDOWN:
-            return DisplayType::DISTANCE_KM;
-
+          return DisplayType::DISTANCE_KM;
         case ScreenType::COMPASS_HEADING:
-            return DisplayType::DEGREES;
-
+          return DisplayType::DEGREES;
         case ScreenType::CURRENT_TIME:
-            return DisplayType::TIME_HHMM;
-
+          return DisplayType::TIME_HHMM;
         case ScreenType::COUNTDOWN_TIMER:
+          return DisplayType::TIME_HHMM;
         case ScreenType::STOPWATCH:
+          return DisplayType::TIME_HHMM;
         case ScreenType::SET_TIMER:
-            return DisplayType::TIME_MMSS;
+          return DisplayType::TIME_MMSS;
 
         default:
             return DisplayType::DEGREES; // Fallback
@@ -91,6 +96,10 @@ void formatAndDisplay(Adafruit_7segment &display, DisplayType type, int value) {
               display.printFloat(distanceKM, 1);
             }
             break;
+        }
+
+        case DisplayType::SPEED_KPH: {
+          display.printFloat(value, 0);
         }
 
         case DisplayType::DEGREES: {
@@ -195,6 +204,10 @@ void updateDisplay(DisplaySide side) {
         }
         case ScreenType::GPSODOMETER: {
             newValue = getCurrentGPSOdometer();
+            break;
+        }
+        case ScreenType::SPEEDOMETER: {
+            newValue = getCurrentSpeedometer();
             break;
         }
         case ScreenType::DISTANCE_COUNTDOWN: {

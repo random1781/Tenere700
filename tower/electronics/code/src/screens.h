@@ -7,6 +7,7 @@
 enum class ScreenType {
     ODOMETER,
     GPSODOMETER,
+    SPEEDOMETER,
     DISTANCE_COUNTDOWN,
     COMPASS_HEADING,
     CURRENT_TIME,
@@ -25,6 +26,7 @@ enum class DisplayType {
   TIME_HHMM,      // Hours and minutes (24-hour format)
   TIME_MMSS,      // Minutes and seconds (countdown/countup)
   DISTANCE_KM,     // Distance in kilometers
+  SPEED_KPH,
   DEGREES         // Compass heading in degrees
 };
 
