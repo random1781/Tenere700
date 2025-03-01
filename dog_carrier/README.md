@@ -1,6 +1,7 @@
 # Carrier, Dog
 
 ![Dog carrier V01](assets/images/dog_carrier-v01.png)
+![Dog carrier on Tenere](assets/images/tenere_carrier.jpg)
 
 This is the design for the carrier I built for Surak, the dog. It is generally comprised of three different types of parts:
 
