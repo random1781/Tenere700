@@ -20,7 +20,7 @@ This **can** be accomplished with a relay, but there have been reports of damage
 
 The safest way to use the stock high beam switch to turn on lights is with a circuit that compares the voltage on the two wires, like the stock headlight. This circuit uses an LM397 comparator IC to compare voltages.
 
-![hbb-v01-conn.svg](high beam schematic)
+![High beam invert schematic](hbb-v01-conn.svg)
 
 The comparator is inactive when the voltage from the high beam wire (yellow) is > ~4V. In other words, when the high beam switch is off. The comparator's output is pulled up to 12V when it's inactive.
 The comparator activates when the voltage from the high beam wire (yellow) is < ~4V. In otherwords, when you turn the high beam switch on, the comparator activates, which latches its output to ground.
