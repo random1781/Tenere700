@@ -18,7 +18,7 @@ This **can** be accomplished with a relay, but there have been reports of damage
 
 ## Comparator circuit
 
-The safest way to use the stock high beam switch to turn on lights is with a circuit that compares the voltage on the two wires, like the stock headlight. This circuit uses an LM397 comparator IC to compare voltages.
+The safest way to use the OEM high beam switch to turn on lights is with a circuit that compares the voltage on the two wires, like the OEM headlight. This circuit uses an LM397 comparator IC to compare voltages.
 
 ![High beam invert schematic](hbb-v01-conn.svg)
 
@@ -26,3 +26,5 @@ The comparator is inactive when the voltage from the high beam wire (yellow) is 
 The comparator activates when the voltage from the high beam wire (yellow) is < ~4V. In otherwords, when you turn the high beam switch on, the comparator activates, which latches its output to ground.
 
 The comparator's output drives a P-channel MOSFET, so when the comparator is inactive and outputting 12V, the MOSFET is off. When the comparator activates (high beam switch = on), the comparator's output drops to ground and the MOSFET turns on, powering whatever you have plugged into it.
+
+This schematic shows this as a pass-through circuit, meaning you can plug this inline with the OEM headlight to power auxiliary lights. Depending on the current draw of whatever you are powering, you might want to use a different power line for pin 3 of the MOSFET since the power line for the OEM headlight is a smaller gauge wire.
