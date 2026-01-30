@@ -2,8 +2,8 @@
 
 This is a support for the ECU to be relocated from the side of the frame to just over the battery. It consists of:
 
-- [Base]() - the main support for the ECU that mounts to the battery via the battery's strap
-- [Wedge]() - because the ECU is "upside down" with the flat side up, this provides support to the non-flat side facing the battery
+- [Base](cad/v01/battery_topper-v01.stl) - the main support for the ECU that mounts to the battery via the battery's strap
+- [Wedge](cad/v01/wedge-v01.stl) - because the ECU is "upside down" with the flat side up, this provides support to the non-flat side facing the battery
 
 ## Support
 
