@@ -1,6 +1,6 @@
 # ECU Relocation
 
-![ECU Relocation](images/v02/ecu_relocation.png)
+![ECU Relocation](images/v02/ecu_relocation-v02.png)
 
 This is a support for the ECU to be relocated from the side of the frame to just over the battery. It consists of:
 
@@ -22,11 +22,11 @@ Though uncommon, some people have cracked their ECU after the perfect fall. I pe
 
 The [Rally Raid Soft Luggage Rack](https://www.rallyraidproducts.co.uk/products/t7-soft-luggage-racks) might have been a contributor to this. There is a solid rubber mount on the inside of the rack, presumably intended to buffer the rack from the bike.
 
-![Rack Bumper](images/v02/rack_bumper.jpg)
+![Rack Bumper](images/rack_bumper.jpg)
 
 This is inexplicably placed *directly* over the ECU, and in my case, it cracked the plastics.
 
-![Rack Damage](images/v02/rack_damage.jpg)
+![Rack Damage](images/rack_damage.jpg)
 
 ## Changes
 
